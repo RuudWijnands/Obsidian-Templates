@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Templates/Book Template.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Templates/Book Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Templates/Book Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Templates/Book Template.md"
               }
             }
           }
@@ -148,6 +148,8 @@
   },
   "active": "0ff9dd288ca57a8d",
   "lastOpenFiles": [
+    "5_Structure Notes/List of Templates.md",
+    "README.md",
     "EXAMPLES.md",
     "Templates/Book Template.md",
     "Visuals/IMG_0934.png",
@@ -159,7 +161,6 @@
     "Templates/Tool Template.md",
     "Templates/_Question Template.md",
     "Templates/_Note Template.md",
-    "LICENSE.md",
-    "README.md"
+    "LICENSE.md"
   ]
 }
