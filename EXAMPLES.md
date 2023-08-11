@@ -3,25 +3,24 @@
 Using **templates** is a great concept to save time in creation and grooming of your notes. A consistent structure of your notes also simplifies further search and clustering of ideas.
 
 Here is the overall structure of my Zettelkasten:
-
-<img src="/Visuals/folders.jpg" width="250" />
+![[folders.jpg]]
 
 All templates are stored in the **Templates** folder.
 
 ## Templates for Literature and Permanent Notes
 ### Sketchnote Example
-<img src="/Visuals/sketchnote_template.jpg" width="250" />
+![[sketchnote_template.jpg]]
 
 ## Templates for Bibliographical Notes
 ### Author Example
-<img src="/Visuals/author_template_example.jpg" width="200" />
+![[author_template_example.jpg]]
 
 ### Book Example
-<img src="/Visuals/book_template_example.jpg" width="300" />
+![[book_template_example.jpg]]
 
 ### Quote Example
-<img src="/Visuals/quote_template_example.jpg" width="200" />
+![[quote_template_example.jpg]]
 
 ## Templates for Structure Notes
 ### Structure Example
-<img src="/Visuals/structure_template.jpg" width="200" />
+![[structure_template.jpg]]
