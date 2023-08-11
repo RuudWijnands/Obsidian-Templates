@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Book Template.md",
+                "file": "Templates/Quote Template.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Book Template.md",
+                "file": "Templates/Quote Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Book Template.md",
+                "file": "Templates/Quote Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Book Template.md"
+                "file": "Templates/Quote Template.md"
               }
             }
           }
@@ -148,10 +148,17 @@
   },
   "active": "0ff9dd288ca57a8d",
   "lastOpenFiles": [
+    "Templates/Question Template.md",
+    "Templates/Quote Template.md",
+    "Templates/Outline LinkedIn Template.md",
+    "Templates/Outline Instagram Template.md",
+    "Templates/Outline E-book Template.md",
+    "Templates/Dataview Table Template.md",
+    "Templates/cm Template.md",
+    "Templates/Book Template.md",
     "5_Structure Notes/List of Templates.md",
     "README.md",
     "EXAMPLES.md",
-    "Templates/Book Template.md",
     "Visuals/IMG_0934.png",
     "Visuals/folders_templates.PNG",
     "Visuals/folders.jpg",
