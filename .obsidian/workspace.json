@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Book Template.md",
+                "file": "5_Structure Notes/List of Templates.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Book Template.md",
+                "file": "5_Structure Notes/List of Templates.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Book Template.md",
+                "file": "5_Structure Notes/List of Templates.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Book Template.md"
+                "file": "5_Structure Notes/List of Templates.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "0ff9dd288ca57a8d",
   "lastOpenFiles": [
+    "Templates/Book Template.md",
     "5_Structure Notes/List of Templates.md",
     "Templates/Quote Template.md",
     "Templates/Question Template.md",
@@ -156,7 +157,6 @@
     "Templates/Outline E-book Template.md",
     "Templates/Dataview Table Template.md",
     "Templates/cm Template.md",
-    "Templates/Book Template.md",
     "README.md",
     "EXAMPLES.md",
     "Visuals/IMG_0934.png",
