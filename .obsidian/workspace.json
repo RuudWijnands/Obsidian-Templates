@@ -13,7 +13,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Visuals/book_template_example.jpg"
+                "file": "Visuals/folders.jpg"
               }
             }
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Visuals/book_template_example.jpg",
+                "file": "Visuals/folders.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Visuals/book_template_example.jpg",
+                "file": "Visuals/folders.jpg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Visuals/book_template_example.jpg"
+                "file": "Visuals/folders.jpg"
               }
             }
           }
@@ -146,6 +146,7 @@
   },
   "active": "0ff9dd288ca57a8d",
   "lastOpenFiles": [
+    "Visuals/book_template_example.jpg",
     "Visuals/author_template_example.jpg",
     "Templates/Term Template.md",
     "Templates/Tool Template.md",
