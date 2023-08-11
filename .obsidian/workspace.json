@@ -11,9 +11,11 @@
             "id": "0ff9dd288ca57a8d",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Visuals/folders.jpg"
+                "file": "Templates/Book Template.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Visuals/folders.jpg",
+                "file": "Templates/Book Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Visuals/folders.jpg",
+                "file": "Templates/Book Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Visuals/folders.jpg"
+                "file": "Templates/Book Template.md"
               }
             }
           }
@@ -146,6 +148,9 @@
   },
   "active": "0ff9dd288ca57a8d",
   "lastOpenFiles": [
+    "Visuals/IMG_0934.png",
+    "Visuals/folders_templates.PNG",
+    "Visuals/folders.jpg",
     "Visuals/book_template_example.jpg",
     "Visuals/author_template_example.jpg",
     "Templates/Term Template.md",
