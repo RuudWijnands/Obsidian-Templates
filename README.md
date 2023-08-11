@@ -36,7 +36,8 @@ Or use it as part of the [Obsidian-Zettelkasten-Starter-Kit](https://github.com/
 - [Wikipedia](https://github.com/jmilldotdev/obsidian-wikipedia) - Gets the first section of Wikipedia and pastes it into your active note.
 
 ## Basic Template Structure
-<img src="/Visuals/IMG_0934.png" width="700" />
+![[IMG_0934.png]]
+
 
 ## List of Templates
 You first may have a look at my note examples created from these templates: [EXAMPLES](https://github.com/groepl/Obsidian-Templates/blob/main/EXAMPLES.md).
@@ -77,11 +78,11 @@ You first may have a look at my note examples created from these templates: [EXA
 - [Table Snippet](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/Table%20Template.md)
 
 ## How to Use Links
-<img src="/Visuals/Linking_with_Templates.png" width="700" />
+![[Linking_with_Templates.png]]
 More about: https://forum.obsidian.md/t/how-to-use-links/58831 
 
 ## How to Use Tags
-<img src="/Visuals/Tagging_with_Templates.png" width="700" />
+![[Tagging_with_Templates.png]]
 More about: https://forum.obsidian.md/t/how-to-use-tags/35320
 
 ## FAQ
