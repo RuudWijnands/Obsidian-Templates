@@ -11,11 +11,9 @@
             "id": "0ff9dd288ca57a8d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Templates/Term Template.md",
-                "mode": "source",
-                "source": false
+                "file": "Visuals/book_template_example.jpg"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Term Template.md",
+                "file": "Visuals/book_template_example.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Term Template.md",
+                "file": "Visuals/book_template_example.jpg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Term Template.md"
+                "file": "Visuals/book_template_example.jpg"
               }
             }
           }
@@ -148,6 +146,8 @@
   },
   "active": "0ff9dd288ca57a8d",
   "lastOpenFiles": [
+    "Visuals/author_template_example.jpg",
+    "Templates/Term Template.md",
     "Templates/Tool Template.md",
     "Templates/_Question Template.md",
     "Templates/_Note Template.md",
