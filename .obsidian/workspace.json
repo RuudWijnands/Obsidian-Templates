@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Structure Template.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Structure Template.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Structure Template.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Structure Template.md"
+                "file": "README.md"
               }
             }
           }
@@ -148,9 +148,10 @@
   },
   "active": "00ab4807e8ee0f13",
   "lastOpenFiles": [
+    "Templates/_Question Template.md",
+    "Templates/Structure Template.md",
     "Templates/Table Template.md",
     "Templates/Recipe Template.md",
-    "Templates/Structure Template.md",
     "5_Structure Notes/List of Templates.md",
     "Templates/Book Template.md",
     "Templates/Quote Template.md",
@@ -169,7 +170,6 @@
     "Visuals/author_template_example.jpg",
     "Templates/Term Template.md",
     "Templates/Tool Template.md",
-    "Templates/_Question Template.md",
     "Templates/_Note Template.md",
     "LICENSE.md"
   ]
